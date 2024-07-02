@@ -6,11 +6,11 @@
 
 Unlock the power of Hadoop and learn to handle big data across clusters efficiently. Our Skill Tree guides you from Hadoop basics like HDFS and MapReduce to advanced topics such as YARN and Apache Hive. Gain the skills to analyze and manage large datasets, a must-have for any data professional.
 
-|   Index | Name                                                      | Level   | Repo                                                               | Course Link                                                             |
-|---------|-----------------------------------------------------------|---------|--------------------------------------------------------------------|-------------------------------------------------------------------------|
-|       1 | [Quick Start with Hadoop](#quick-start-with-hadoop)       | ★☆☆     | [🔗 Repo](https://github.com/labex-labs/quick-start-with-hadoop)    | [🚀 Start Learning](https://labex.io/courses/quick-start-with-hadoop)    |
-|       2 | [Hadoop Practice Labs](#hadoop-practice-labs)             | ★☆☆     | [🔗 Repo](https://github.com/labex-labs/hadoop-practice-labs)       | [🚀 Start Learning](https://labex.io/courses/hadoop-practice-labs)       |
-|       3 | [Hadoop Practice Challenges](#hadoop-practice-challenges) | ★☆☆     | [🔗 Repo](https://github.com/labex-labs/hadoop-practice-challenges) | [🚀 Start Learning](https://labex.io/courses/hadoop-practice-challenges) |
+|   Index | Name                                                                              | Level   | Repo                                                               | Course Link                                                    |
+|---------|-----------------------------------------------------------------------------------|---------|--------------------------------------------------------------------|----------------------------------------------------------------|
+|       1 | [Quick Start with Hadoop](https://labex.io/courses/quick-start-with-hadoop)       | ★☆☆     | [🔗 Repo](https://github.com/labex-labs/quick-start-with-hadoop)    | [🚀 Start](https://labex.io/courses/quick-start-with-hadoop)    |
+|       2 | [Hadoop Practice Labs](https://labex.io/courses/hadoop-practice-labs)             | ★☆☆     | [🔗 Repo](https://github.com/labex-labs/hadoop-practice-labs)       | [🚀 Start](https://labex.io/courses/hadoop-practice-labs)       |
+|       3 | [Hadoop Practice Challenges](https://labex.io/courses/hadoop-practice-challenges) | ★☆☆     | [🔗 Repo](https://github.com/labex-labs/hadoop-practice-challenges) | [🚀 Start](https://labex.io/courses/hadoop-practice-challenges) |
 
 ## More Courses
 
